@@ -1,0 +1,10 @@
+{application,project2,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{project2,[]}},
+              {env,[]},
+              {modules,['2DGrid',actorNeighbor,getInput,gossipActor,gossipSup,
+                        pushSumFull,pushSumLine,pushSumStarter,stopPushSum,
+                        test]}]}.

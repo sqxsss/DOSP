@@ -1,0 +1,9 @@
+{application,project1,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{project1,[]}},
+              {env,[]},
+              {modules,[client,createHash,getInetInfo,getInput,hashCheck,
+                        server,worker]}]}.
